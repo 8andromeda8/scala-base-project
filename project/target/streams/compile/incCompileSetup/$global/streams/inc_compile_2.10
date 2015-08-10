@@ -1,0 +1,161 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Library$.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Library.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Resolvers$.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Resolvers.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Version$.class
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Version.class
+binary dependencies:
+4 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /home/s4npr02/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Dependencies
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Dependencies$
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Library
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Library$
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Resolvers
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Resolvers$
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Version
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Version$
+used names:
+56 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> %
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> %%
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> ++
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> <init>
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> AnyRef
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Dependencies
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Library
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Predef
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Resolvers
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Seq
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> String
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> Version
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> akkaActor
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> akkaLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> akkaTestkit
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> akkaVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> all
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> apply
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> at
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> canBuildFrom
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> collection
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> collectionJson
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> collectionJsonVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> ficus
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> ficusVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> functionalProgrammingLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> json4sExt
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> json4sJackson
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> json4sNative
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> json4sVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> jsonLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> logback
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> logbackVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> loggingLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> moduleIDConfigurable
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> package
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sbt
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> scala
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> scalaLogging
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> scalaloggingVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> scalaz
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> scalazVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> shapeless
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> shapelessVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> specs2
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> specs2Version
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayCan
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayClient
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayRouting
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayTestkit
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> sprayVersion
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> testingLibraries
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> toGroupID
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> toRepositoryName
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> utilsLibraries
+product stamps:
+8 items
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Library$.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Library.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Resolvers$.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Resolvers.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Version$.class -> lastModified(1439216004000)
+/home/s4npr02/ScalaProyects/scala_example/project/target/scala-2.10/sbt-0.13/classes/Version.class -> lastModified(1439216004000)
+source stamps:
+1 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> hash(568470b911cf988f4dd3857e71612a487eb7323b)
+binary stamps:
+4 items
+/home/s4npr02/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar -> lastModified(1430156161000)
+/home/s4npr02/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar -> lastModified(1438810868000)
+/home/s4npr02/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1438812346000)
+class names:
+4 items
+/home/s4npr02/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar -> sbt.impl.GroupID
+/home/s4npr02/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar -> sbt.package$
+/home/s4npr02/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.collection.generic.GenericCompanion
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwJOLWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFZ8oBJ0AAtzcHJheUNsaWVudHNxAH4ADFHrmqN0AAZub3RpZnlzcQB+AAwS9Vk1dAAHbG9nYmFja3NxAH4ADLyMx9h0AAhzcHJheUNhbnNxAH4ADJBJ3Fd0AAlha2thQWN0b3JzcQB+AAzQJSHFdAAEd2FpdHNxAH4ADEyQlU90AA0kYXNJbnN0YW5jZU9mc3EAfgAMS7mto3QAFWNvbGxlY3Rpb25Kc29uVmVyc2lvbnNxAH4ADC7TJQl0ABBzaGFwZWxlc3NWZXJzaW9uc3EAfgAMtBoyRXQADWpzb240c0phY2tzb25zcQB+AAz5lYzjdAAObG9nYmFja1ZlcnNpb25zcQB+AAy8ZgfKdAAMc3ByYXlWZXJzaW9uc3EAfgAMi7mFaHQABmVxdWFsc3NxAH4ADCTUobV0AANhbGxzcQB+AAwPH7X0dAAMYXNJbnN0YW5jZU9mc3EAfgAMop/ic3QAEHRlc3RpbmdMaWJyYXJpZXNzcQB+AAzai39FdAALYWtrYVRlc3RraXRzcQB+AAxeioy1dAAMc3luY2hyb25pemVkc3EAfgAMnW1tVHQADERlcGVuZGVuY2llc3NxAH4ADFpFS710AA0kaXNJbnN0YW5jZU9mc3EAfgAMHrkeGnQADWFra2FMaWJyYXJpZXNzcQB+AAx9tFvWdAAHVmVyc2lvbnNxAH4ADB704F10AAVmaWN1c3NxAH4ADAIodtB0AAxqc29uNHNOYXRpdmVzcQB+AAw1C+S+dAANc3BlY3MyVmVyc2lvbnNxAH4ADCG45150AA51dGlsc0xpYnJhcmllc3NxAH4ADGB6ZkJ0AAlub3RpZnlBbGxzcQB+AAz/oN+8dAAHTGlicmFyeXNxAH4ADLqFj1x0AAxpc0luc3RhbmNlT2ZzcQB+AAwkCTXQdAANanNvbkxpYnJhcmllc3NxAH4ADEdwcpJ0AAlSZXNvbHZlcnNzcQB+AAzXBq7+dAALYWtrYVZlcnNpb25zcQB+AAyB1/ZjdAACPT1zcQB+AAy9mu2zdAAOY29sbGVjdGlvbkpzb25zcQB+AAxN9kt0dAAFY2xvbmVzcQB+AAy+q0R3dAAMc3ByYXlSb3V0aW5nc3EAfgAMNnPUX3QACHRvU3RyaW5nc3EAfgAMOU+/TXQACWpzb240c0V4dHNxAH4ADERS/lx0AAIhPXNxAH4ADOkaY6d0AAlzaGFwZWxlc3NzcQB+AAzhNd75dAAIZ2V0Q2xhc3NzcQB+AAz2f2UVdAAMc2NhbGFMb2dnaW5nc3EAfgAMNxhQyXQAHmZ1bmN0aW9uYWxQcm9ncmFtbWluZ0xpYnJhcmllc3NxAH4ADC0XRWx0AAxzcHJheVRlc3RraXRzcQB+AAyDbLcRdAANc2NhbGF6VmVyc2lvbnNxAH4ADGMaohd0AAJuZXNxAH4ADHVNCAd0AA1qc29uNHNWZXJzaW9uc3EAfgAMfuJJJXQABnNjYWxhenNxAH4ADKkxkxl0AAJlcXNxAH4ADCVgV3d0ABNzY2FsYWxvZ2dpbmdWZXJzaW9uc3EAfgAMsIdQvHQABnNwZWNzMnNxAH4ADIpvThh0AAIjI3NxAH4ADAbMqp10AAhmaW5hbGl6ZXNxAH4ADD2tL8V0AAhoYXNoQ29kZXNxAH4ADCjv7IR0AA5zcHJheUxpYnJhcmllc3NxAH4ADMNZIOh0AAxmaWN1c1ZlcnNpb25zcQB+AAxna6zJdAAQbG9nZ2luZ0xpYnJhcmllc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AS3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AoAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AiUwACWluaGVyaXRlZHEAfgCJTAAHcGFyZW50c3EAfgCJeHEAfgCnc3EAfgCgAXVxAH4AhAAAAABwc3EAfgCgAXVxAH4AhAAAAABwc3EAfgCgAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ApnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ApnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Av3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AwHNxAH4As3QAA0FueXNxAH4At3NxAH4AunVxAH4AvQAAAAJzcQB+AL90AAVzY2FsYXEAfgDGcHBzcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAcQB+ADl1cQB+AJgAAAAAcQB+AJx1cQB+AJ4AAAAAc3EAfgCgAXEAfgCocHNxAH4AoAFzcQB+AKpzcQB+AKABdXEAfgCEAAAAAHBzcQB+AKABdXEAfgCEAAAAAHBzcQB+AKABdXEAfgCxAAAAAnNxAH4As3EAfgC2c3EAfgC3c3EAfgC6dXEAfgC9AAAAA3NxAH4Av3EAfgDCc3EAfgC/cQB+AMRxAH4AxnNxAH4As3EAfgDIc3EAfgC3c3EAfgC6dXEAfgC9AAAAAnNxAH4Av3EAfgDNcQB+AMZwcHNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgBxAH4ARXVxAH4AmAAAAABxAH4AnHVxAH4AngAAAABzcQB+AKABcQB+AKhwc3EAfgCgAXNxAH4AqnNxAH4AoAF1cQB+AIQAAAAAcHNxAH4AoAF1cQB+AIQAAAAAcHNxAH4AoAF1cQB+ALEAAAACc3EAfgCzcQB+ALZzcQB+ALdzcQB+ALp1cQB+AL0AAAADc3EAfgC/cQB+AMJzcQB+AL9xAH4AxHEAfgDGc3EAfgCzcQB+AMhzcQB+ALdzcQB+ALp1cQB+AL0AAAACc3EAfgC/cQB+AM1xAH4AxnBwc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHEAfgAzdXEAfgCYAAAAAHEAfgCcdXEAfgCeAAAAAHNxAH4AoAFxAH4AqHBzcQB+AKABc3EAfgCqc3EAfgCgAXVxAH4AhAAAAABwc3EAfgCgAXVxAH4AhAAAAABwc3EAfgCgAXVxAH4AsQAAAAJzcQB+ALNxAH4AtnNxAH4At3NxAH4AunVxAH4AvQAAAANzcQB+AL9xAH4AwnNxAH4Av3EAfgDEcQB+AMZzcQB+ALNxAH4AyHNxAH4At3NxAH4AunVxAH4AvQAAAAJzcQB+AL9xAH4AzXEAfgDGcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTxf1Yj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABUL2hvbWUvczRucHIwMi9TY2FsYVByb3llY3RzL3NjYWxhX2V4YW1wbGUvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUVoRwuRHPmI9N04V+cWEqSH63Mjs=
+external apis:
+0 items
+source infos:
+1 items
+/home/s4npr02/ScalaProyects/scala_example/project/Dependencies.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwDX1cJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3M0bnByMDIvc2NhbGFfZXhhbXBsZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwOiL6N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL3M0bnByMDIvU2NhbGFQcm95ZWN0cy9zY2FsYV9leGFtcGxlL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwPKdHF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL3M0bnByMDIvU2NhbGFQcm95ZWN0cy9zY2FsYV9leGFtcGxlL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTxf1Yj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9ob21lL3M0bnByMDIvU2NhbGFQcm95ZWN0cy9zY2FsYV9leGFtcGxlL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
