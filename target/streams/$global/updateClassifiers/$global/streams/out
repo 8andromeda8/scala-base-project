@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT [compile]
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28dc3e92
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@148b5446
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -48,7 +48,7 @@
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->master]
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scoverage#scalac-scoverage-runtime_2.10;1.1.0 [provided->default(compile)]
 [info] Resolving org.scoverage#scalac-scoverage-runtime_2.10;1.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@709de0db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68f32892
 [debug] sbt-chain: module revision found in cache: org.scoverage#scalac-scoverage-runtime_2.10;1.1.0
 [debug] 	found org.scoverage#scalac-scoverage-runtime_2.10;1.1.0 in sbt-chain
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scoverage#scalac-scoverage-runtime_2.10;1.1.0 [provided->runtime]
@@ -56,7 +56,7 @@
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scoverage#scalac-scoverage-runtime_2.10;1.1.0 [provided->master]
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scoverage#scalac-scoverage-plugin_2.10;1.1.0 [provided->default(compile)]
 [info] Resolving org.scoverage#scalac-scoverage-plugin_2.10;1.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43fb16b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71f72fd7
 [debug] sbt-chain: module revision found in cache: org.scoverage#scalac-scoverage-plugin_2.10;1.1.0
 [debug] 	found org.scoverage#scalac-scoverage-plugin_2.10;1.1.0 in sbt-chain
 [debug] == resolving dependencies default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT->org.scoverage#scalac-scoverage-plugin_2.10;1.1.0 [provided->runtime]
@@ -223,7 +223,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
-[debug] :: resolution report :: resolve 69ms :: artifacts dl 64ms
+[debug] :: resolution report :: resolve 94ms :: artifacts dl 16ms
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT compile produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-compile.xml
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT runtime produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-runtime.xml
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT test produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-test.xml
@@ -237,4 +237,4 @@
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT docs produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-docs.xml
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT pom produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-pom.xml
 [debug] 	report for default#scala_example$sources_javadoc_2.10;0.1-SNAPSHOT scala-tool produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_javadoc_2.10-scala-tool.xml
-[debug] 	resolve done (69ms resolve - 64ms download)
+[debug] 	resolve done (94ms resolve - 16ms download)

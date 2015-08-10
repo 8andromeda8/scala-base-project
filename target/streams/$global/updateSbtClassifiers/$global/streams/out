@@ -932,9 +932,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.5!scala-library.jar
-[debug] :: resolution report :: resolve 1046ms :: artifacts dl 19ms
+[debug] :: resolution report :: resolve 1020ms :: artifacts dl 23ms
 [debug] 	report for default#scala_example$sbt_2.10;0.1-SNAPSHOT default produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sbt_2.10-default.xml
-[debug] 	resolve done (1046ms resolve - 19ms download)
+[debug] 	resolve done (1020ms resolve - 23ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#scala_example$sources_2.10;0.1-SNAPSHOT
 [debug] 	confs: [default]
@@ -1390,6 +1390,6 @@
 [debug] 	[NOT REQUIRED] org.scalariform#scalariform_2.10;0.1.4!scalariform_2.10.jar(src)
 [debug] 	[NOT REQUIRED] com.github.mpeltonen#sbt-idea;1.6.0!sbt-idea.jar(src)
 [debug] 	[NOT REQUIRED] commons-io#commons-io;2.0.1!commons-io.jar(src)
-[debug] :: resolution report :: resolve 119ms :: artifacts dl 19ms
+[debug] :: resolution report :: resolve 165ms :: artifacts dl 27ms
 [debug] 	report for default#scala_example$sources_2.10;0.1-SNAPSHOT default produced in /home/s4npr02/ScalaProyects/scala_example/target/resolution-cache/reports/default-scala_example$sources_2.10-default.xml
-[debug] 	resolve done (119ms resolve - 19ms download)
+[debug] 	resolve done (165ms resolve - 27ms download)
